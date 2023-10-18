@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Antônio Paes</h1>
-<h3 align="center">I am a passionate computer science student from Brazil. I started studying after being admitted on a scholarship to the Santander Bootcamp 2023 - Introduction to Data Science. In the past, I studied Harvard's CS50'P and Blockchain: Understanding its Uses and Implications from the Linux Foundation. Now, I'm entering this technology world to pursue my career.</h3>
+<h3 align="center">I am an enthusiastic Computer Science student from Brazil, on a journey fueled by my passion for technology. My educational path began with the prestigious Harvard's CS50'P program and an exploration of blockchain through the Linux Foundation. Subsequently, I was honored with a scholarship to attend the Santander Bootcamp 2023 - Introduction to Data Science. With a strong foundation in these domains, I am now stepping into the dynamic world of technology to further my career. I am eager to collaborate, learn, and contribute to the exciting developments in the tech industry..</h3>
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
