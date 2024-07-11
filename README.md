@@ -27,9 +27,10 @@
 
 
 
-<div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=AntonioPaess&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
+
+
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AntonioPaess&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntonioPaess&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
 
 
