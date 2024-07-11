@@ -24,9 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniopaess&show_icons=true&locale=en&layout=compact" alt="antoniopaess" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoniopaess&show_icons=true&locale=en" alt="antoniopaess" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antoniopaess&" alt="antoniopaess" /></p>
 
 
 <div align="center" >
