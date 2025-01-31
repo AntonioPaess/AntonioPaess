@@ -78,12 +78,6 @@
 
 ---
 
-### 🔭 Experience:
-- **Cloudin** (Intern):  
-  A Pernambuco-based startup innovating in accessible and sophisticated automation. We build unique environments for hotels, hospitals, offices, and homes, enhancing comfort and convenience to a new level.  
-
----
-
 ### 🌟 What Makes Me Unique?
 
 - **Lifelong Learner**: Always exploring new technologies. Currently diving into **Rust**, **Java**, and **Python**.  
