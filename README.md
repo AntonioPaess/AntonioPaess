@@ -65,7 +65,7 @@
     <td colspan="3">
       <p align="center">
         <img src="https://skillicons.dev/icons?i=git" alt="Git" height="30"/>
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="30"/>
+        <img src="https://skillicons.dev/icons?i=apple" alt="Linux" height="30"/>
         <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="30"/>
         <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="30"/>
       </p>
@@ -87,7 +87,7 @@
 ---
 
 ### 📊 GitHub Stats:
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AntonioPaess&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntonioPaess&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+| ![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntonioPaess&theme=dracula) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntonioPaess&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
 ---
