@@ -78,6 +78,24 @@
 
 ---
 
+### <img src="https://github.com/user-attachments/assets/be3d8e93-745d-4e72-afa6-0ac4346353a5" alt="cloudincontrol_logo" height="23">  Experience:
+
+
+
+Cloudin (Intern)
+
+Cloudin is a Pernambuco-based startup passionate about innovation, developing technology to enhance user experiences. We believe in reimagined automation—accessible yet sophisticated—creating unique environments in hotels, hospitals, offices, and homes to elevate comfort and convenience to an unparalleled level.
+
+What I Do:
+
+ - Develop responsive interfaces using HTML, CSS, and Bootstrap, ensuring an excellent user experience.
+ - Implement interactivity and function manipulation with JavaScript to enhance application dynamics.
+ - Work on PHP back-end development, creating and optimizing system functionalities.
+ - Manage and integrate data in Firebase, including authentication and database structuring.
+ - Apply these skills to real tasks within the company's system, contributing to its development and maintenance.
+
+---
+
 ### 🌟 What Makes Me Unique?
 
 - **Lifelong Learner**: Always exploring new technologies. Currently diving into **Rust**, **Java**, and **Python**.  
