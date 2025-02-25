@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=92132f&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b3b6f&height=150&section=header"/>
 
 <div style="background-color:#191970; padding: 20px; border-radius: 10px; text-align: center;">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Antônio+Paes;I'm+a+brazilian+Developer;Pleased+to+meet+you+🚀🌌">
