@@ -56,22 +56,26 @@
 
 ---
 
-
-
 ### 💼 Experience
 
-#### <img src="https://github.com/user-attachments/assets/be3d8e93-745d-4e72-afa6-0ac4346353a5" alt="cloudincontrol_logo" height="23"> Cloudin (Intern)
+#### <img src="https://github.com/user-attachments/assets/e77a954b-4d5b-4a22-a080-21e2b3d5512b" alt="cesar_logo" height="23"> CESAR Org (Intern – Native Apps) — *Current*
+
+---
+
+#### <img src="https://github.com/user-attachments/assets/be3d8e93-745d-4e72-afa6-0ac4346353a5" alt="cloudincontrol_logo" height="23"> Cloudin (Intern) — *Concluded*
 
 Cloudin is a Pernambuco-based startup passionate about innovation, building technology that enhances user experiences in hotels, hospitals, offices, and homes.
 
-**What I Do:**
-- Build responsive interfaces using HTML, CSS, and Bootstrap.
-- Create dynamic interactions using JavaScript.
-- Develop backend features in PHP.
-- Structure and manage real-time data in Firebase.
-- Collaborate directly on production systems with impact on end users.
+**What I Did:**
+- Built responsive interfaces using HTML, CSS, and Bootstrap.
+- Created dynamic interactions using JavaScript.
+- Developed backend features in PHP.
+- Structured and managed real-time data in Firebase.
+- Collaborated directly on production systems with impact on end users.
 
 ---
+
+
 
 ### 🧠 Featured Projects
 
