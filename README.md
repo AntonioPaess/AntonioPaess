@@ -1,138 +1,80 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=150&section=header"/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=32&center=true&vCenter=true&width=900&lines=Ant%C3%B4nio+Paes+de+Andrade;Native+Apps+Developer+%40+CESAR;Building+technology+that+gives+people+a+voice+%F0%9F%9A%80"/>
-</div>
-
-<br/>
-
-<h3 align="center">
-Native Apps Intern · iOS · macOS · Android · Embedded · Founder @ Entropy
-</h3>
+# Antônio Paes
 
 <p align="center">
-I build technology that removes barriers. Currently at <strong>CESAR</strong>, one of Brazil's most respected tech institutes, rotating through native platforms in 6-month cycles — currently on iOS. Alongside my internship, I'm building two products under <strong>Entropy</strong> that started as academic projects and are becoming things real people will use.
+  <a href="https://antoniopaesss.vercel.app/pt">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/antoniopaess/">LinkedIn</a> ·
+  <a href="mailto:paesdeandradeantonio@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/antoniopaess" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="28"/>
-  </a>&nbsp;
-  <a href="https://instagram.com/antonio_paes" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="28"/>
-  </a>&nbsp;
-  <a href="https://discord.gg/antoniopaes" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="28"/>
-  </a>
+  <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
 </p>
 
----
+## Native mobile developer focused on Android and Kotlin
 
-<div align="center">
+I am a Computer Science student at CESAR School and a Native Mobile Developer Intern at CESAR. My current focus is Android development with Kotlin, Jetpack Compose and Android SDK fundamentals, with additional experience building native products for Apple platforms.
 
-### 🗣️ Juru — *Swift Student Challenge 2026*
+I also build accessibility-first software. I was a 2026 Apple Swift Student Challenge Distinguished Winner for Juru AAC, a published iPad-only AAC app that explores face gestures, Apple eye and head tracking, and on-device Core ML to make communication more accessible.
 
-</div>
+I care about reliable mobile software, privacy, clear state management and debugging difficult interactions across devices and platforms.
 
-> **Facial gestures → text → speech.** No extra hardware. No internet. Just the iPhone already in the room.
+## Current Android work
 
-In Brazil, professional AAC devices cost **R$24,000–75,000** and are out of reach for most families. Juru turns the TrueDepth camera every iPhone already has into a zero-cost communication device — offered at a symbolic price.
+Part of my Android work is proprietary under NDA. I cannot publish its source code or product-specific details, so this profile highlights public projects and sanitized descriptions of the technical problems I have worked on. The goal is to show the engineering skills without disclosing confidential information.
 
-The name comes from Tupi-Guaraní and means *mouth*. ALS and paralysis create a silent forest: alive, full of intention, but unable to be heard. The one group of muscles often preserved is the face. Juru uses exactly those muscles.
+## Public mobile work
 
-| Gesture | Action | Core Tech |
-|---|---|---|
-| Raise eyebrow | Navigate | ARKit · ARFaceAnchor blendshapes at 20 Hz |
-| Pucker lips (1.2 s) | Select | Binary-tree menu — any letter in ≤ 5 gestures |
-| Pucker lips (2.0 s) | Undo | Trie prediction — ~40% fewer inputs |
+### Juru AAC
 
-`Swift 6` · `SwiftUI` · `ARKit` · `AVFoundation` · `SceneKit` · `Combine` · `100% on-device`
+Published iPad-only accessibility app built with Swift and SwiftUI. The app is offline-first and uses adaptive input modes, face gestures, Apple eye and head tracking, and on-device Core ML.
 
----
+[View Juru AAC on the App Store](https://apps.apple.com/br/app/juru-aac/id6776475179)
 
-<div align="center">
+### Murphy
 
-### 📋 QRollCall — *Entropy · CESAR School Innovation ✓*
+Kotlin Multiplatform and BLE project exploring offline device-to-device communication across iOS and Android.
 
-</div>
+## Experience
 
-> **Smart attendance for universities.** Multi-layer fraud prevention — no proxy, no faking.
+### CESAR
 
-Selected for **CESAR School Innovation** — only **6 projects** chosen to advance toward the market. v2.0 in active development, with pilot conversations ongoing at CESAR.
+Native Mobile Developer Intern since August 2025, with completed iOS and Android rotations across native mobile R&D. Current work is described at a high level because of NDA restrictions.
 
-Professors generate time-limited QR codes. Students confirm presence through a multi-layer validation system. B2B university market, being built and commercialized under **Entropy**.
+### Cloudin
 
-`Java` · `Spring Boot` · `React` · `TypeScript` · `Tailwind CSS` · `AWS S3` · `AWS Rekognition` · `PostgreSQL` · `Docker`
+Former Full Stack Developer Intern. Worked with React, TypeScript, PHP and Firebase on hospitality software and client onboarding automation.
 
----
+## Technical skills
 
-### 💼 Experience
+| Mobile and platform | Engineering and supporting stack |
+| --- | --- |
+| Kotlin · Android SDK · Jetpack Compose · Accessibility Service · Kotlin Multiplatform · BLE | Git · REST/API · debugging · Android Studio · Docker |
+| Swift · SwiftUI · iOS SDK · ARKit · AVFoundation · Core ML · CoreBluetooth | Java · Spring Boot · PHP · Python · C · Rust |
+| Native mobile · accessibility · offline and on-device processing | React · TypeScript · Firebase · PostgreSQL · AWS |
 
-#### <img src="https://github.com/user-attachments/assets/e77a954b-4d5b-4a22-a080-21e2b3d5512b" alt="cesar" height="20"/> CESAR — Intern, Native Application Development · *Aug 2025 → Present*
+## Recognition
 
-Rotating across iOS, macOS, Android and Embedded in 6-month cycles. Currently on iOS, shipping production Swift/SwiftUI code alongside senior engineers.
+- Distinguished Winner, Apple Swift Student Challenge 2026
+- CESAR School Computer Science student, GPA 8.81/10
+- Selected first in CESAR's double-degree selection process for Instituto Politécnico de Bragança
 
-#### CESAR School — Programming Tutor, C Language · *Feb 2025 – Jan 2026*
+## Other projects
 
-Taught imperative and functional programming. Weekly tutoring sessions on pointers, recursion and memory management. Designed exams and problem sets.
+The repositories below show additional experience outside my current mobile focus:
 
-#### <img src="https://github.com/user-attachments/assets/be3d8e93-745d-4e72-afa6-0ac4346353a5" alt="cloudin" height="20"/> Cloudin — Full Stack Developer Intern · *Feb – Aug 2025*
+| Project | Stack | What it demonstrates |
+| --- | --- | --- |
+| [Murall](https://github.com/AntonioPaess/Murall) | TypeScript | Collaborative product development |
+| [QRCode Generator](https://github.com/AntonioPaess/QrCode_Generator_Rust) | Rust | CLI design and systems fundamentals |
+| [Binance Crypto Bot](https://github.com/AntonioPaess/binance-spot-bot-nodejs) | Node.js | REST/API integration and automation |
+| [M.A.G.](https://github.com/AntonioPaess/M.A.G.-Atraves-dos-Universos) | C | Game logic and programming fundamentals |
 
-React/TypeScript hospitality dashboards + PHP/Firebase backend. Automated onboarding workflows — **−40% client setup time**.
+## Contact
 
----
+I am open to conversations about Android, Kotlin, native mobile development, accessibility and privacy-oriented software.
 
-### 🛠️ Skills & Technologies
-
-<div align="center">
-
-| iOS / Apple | Backend | Frontend | Cloud & Data |
-|---|---|---|---|
-| ![Swift](https://skillicons.dev/icons?i=swift) ![Xcode](https://skillicons.dev/icons?i=xcode) | ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![PHP](https://skillicons.dev/icons?i=php) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) | ![React](https://skillicons.dev/icons?i=react) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Next.js](https://skillicons.dev/icons?i=nextjs) | ![AWS](https://skillicons.dev/icons?i=aws) ![Firebase](https://skillicons.dev/icons?i=firebase) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![Docker](https://skillicons.dev/icons?i=docker) |
-
-#### Other Tools
-![Git](https://skillicons.dev/icons?i=git) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Linux](https://skillicons.dev/icons?i=linux) ![Postman](https://skillicons.dev/icons?i=postman) ![Neovim](https://skillicons.dev/icons?i=neovim)
-
-</div>
-
----
-
-### 🧠 Other Projects
-
-| | Project | Stack | Description |
-|--|---|---|---|
-| 🎨 | [**Murall**](https://github.com/AntonioPaess/Murall) | Spring Boot · Next.js · Supabase | Collaborative mural platform with real-time posting and auth |
-| 🦀 | [**QRCode Generator**](https://github.com/AntonioPaess/QrCode_Generator_Rust) | Rust | CLI QR code generator — fast, clean, zero deps |
-| 🤖 | [**Binance Crypto Bot**](https://github.com/AntonioPaess/binance-spot-bot-nodejs) | Node.js | Automated trading via Binance Spot API with custom strategies |
-| 🕹️ | [**M.A.G.**](https://github.com/AntonioPaess/M.A.G.-Atraves-dos-Universos) | C | 2D action game with AI-driven NPC storytelling |
-
----
-
-### 📊 GitHub Stats
-
-| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntonioPaess&theme=dracula) | ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntonioPaess&theme=dracula) |
-|---|---|
-
----
-
-### 🎓 Education
-
-**CESAR School** · B.Sc. Computer Science · *2024 — on leave*
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect
-
-I'm always open to new opportunities, collaborations, or just a good conversation about technology.
-
-**📍 Recife, Pernambuco, Brazil**
-
-</div>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{AntonioPaess}/count.svg"/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=100&section=footer"/>
+[LinkedIn](https://www.linkedin.com/in/antoniopaess/) · [Portfolio](https://antoniopaesss.vercel.app/pt) · [Email](mailto:paesdeandradeantonio@gmail.com)
