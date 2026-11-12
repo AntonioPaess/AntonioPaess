@@ -24,6 +24,13 @@ Native macOS assistant that routes requests from a coordinator to specialist age
 `Swift 6` `SwiftUI / AppKit` `Apple Foundation Models` `Claude Agent SDK` `Swift Testing`
 · [Code](https://github.com/AntonioPaess/HeyChomp) · [Architecture](https://github.com/AntonioPaess/HeyChomp/blob/main/Sieghart/ARCHITECTURE.md) · [Test suite](https://github.com/AntonioPaess/HeyChomp/blob/main/Sieghart/Tests/README.md) · [Case study](https://antoniopaesss.vercel.app/en/heychomp)
 
+### [Ceres AI](https://github.com/AntonioPaess/ceres-ai-coffee-quality) · Web + Telegram · Hackathon prototype · Team of three
+
+Experimental first read on green coffee quality from a photo. A Roboflow object-detection model finds defective beans, deterministic and unit-tested rules turn the detections into a score, grade and suggested price, and an AI assistant explains the result on the web and in Telegram. The model only explains: it never computes the grade. Context is built server-side from the user's own data, and Telegram actions run only after explicit confirmation. Model accuracy has not been measured.
+
+`TypeScript` `React` `PocketBase` `Roboflow` `AI agents` `Telegram Bot API` `Vitest`
+· [Code](https://github.com/AntonioPaess/ceres-ai-coffee-quality) · [Architecture](https://github.com/AntonioPaess/ceres-ai-coffee-quality/blob/main/docs/ARCHITECTURE.md) · [AI integrations](https://github.com/AntonioPaess/ceres-ai-coffee-quality/blob/main/docs/AI_INTEGRATIONS.md) · [Case study](https://antoniopaesss.vercel.app/en/ceres-ai)
+
 ### [Murphy](https://github.com/AntonioPaess/Murphy) · Android + iOS · In development · Personal
 
 Kotlin Multiplatform core for offline peer-to-peer messaging over a BLE mesh. Shared code holds the connection state machine, a packet router with TTL and duplicate suppression, a binary radio protocol, bounded retries and receiver receipts; native BluetoothGatt and CoreBluetooth adapters plug into it. A deterministic topology simulator tests relay failure and rerouting. Physical Android ↔ iPhone interoperability is not yet validated.
@@ -38,7 +45,7 @@ Academic platform linking sports sessions, photographers and a photo marketplace
 `Java 21` `Spring Boot 3` `Spring Data JPA` `Flyway` `Cucumber / JUnit 5`
 · [Code](https://github.com/AntonioPaess/sportsnap-api)
 
-<sub>More, including team and hackathon work such as [Ceres AI](https://github.com/AntonioPaess/ceres-ai-coffee-quality) (computer vision + AI agent prototype, team of three), is on the [portfolio](https://antoniopaesss.vercel.app/en#projects).</sub>
+More projects, with my role in each, are on the [portfolio](https://antoniopaesss.vercel.app/en#projects).
 
 ## Engineering focus
 
