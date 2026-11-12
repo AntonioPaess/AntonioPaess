@@ -1,80 +1,71 @@
 # Antônio Paes
 
-<p align="center">
-  <a href="https://antoniopaesss.vercel.app/pt">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/antoniopaess/">LinkedIn</a> ·
-  <a href="mailto:paesdeandradeantonio@gmail.com">Email</a>
-</p>
+**Software Engineer · AI Systems · Backend · Native Applications**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
-</p>
+[Portfolio](https://antoniopaesss.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/antoniopaess/) · [Email](mailto:paesdeandradeantonio@gmail.com) · Recife, Brazil
 
-## Native mobile developer focused on Android and Kotlin
+I build native applications and software systems that connect language models, platform APIs and backend services, with an emphasis on testable architecture and clearly documented limits. I study Computer Science at [CESAR School](https://www.cesar.school/) and work as a Native Mobile Developer Intern at CESAR.
 
-I am a Computer Science student at CESAR School and a Native Mobile Developer Intern at CESAR. My current focus is Android development with Kotlin, Jetpack Compose and Android SDK fundamentals, with additional experience building native products for Apple platforms.
+> 🏆 **Distinguished Winner, Apple Swift Student Challenge 2026** for [Juru AAC](https://apps.apple.com/br/app/juru-aac/id6776475179), one of 50 top-ranked student developers worldwide, invited to WWDC26 · [CESAR School announcement](https://www.cesar.school/blog/aluno-distinguished-winner-swift-challenge-2026/)
 
-I also build accessibility-first software. I was a 2026 Apple Swift Student Challenge Distinguished Winner for Juru AAC, a published iPad-only AAC app that explores face gestures, Apple eye and head tracking, and on-device Core ML to make communication more accessible.
+## Selected projects
 
-I care about reliable mobile software, privacy, clear state management and debugging difficult interactions across devices and platforms.
+### [Juru AAC](https://apps.apple.com/br/app/juru-aac/id6776475179) · Published on the App Store · Individual
 
-## Current Android work
+Offline communication app for iPad, built for people living with ALS or recovering from stroke. Users compose text with two facial gestures through a binary letter tree, or with iPadOS Eye Tracking; context-aware word prediction runs on device with Core ML. No accounts, no network, no data collection.
 
-Part of my Android work is proprietary under NDA. I cannot publish its source code or product-specific details, so this profile highlights public projects and sanitized descriptions of the technical problems I have worked on. The goal is to show the engineering skills without disclosing confidential information.
+`Swift` `SwiftUI` `ARKit` `Core ML` `AVSpeechSynthesizer` `VoiceOver / Dynamic Type`
+· [App Store](https://apps.apple.com/br/app/juru-aac/id6776475179) · [Case study](https://antoniopaesss.vercel.app/en/juru)
 
-## Public mobile work
+### [HeyChomp](https://github.com/AntonioPaess/HeyChomp) · macOS · In development · Personal
 
-### Juru AAC
+Native macOS assistant that routes requests from a coordinator to specialist agents and runs them on local Apple Foundation Models. Implemented today: `LanguageModelSession` with custom tool calling (`@Generable` arguments, per-reply tool budgets, untrusted-content handling), a bridge to the Claude Agent SDK and Codex app-server over a local RPC process, Vision OCR and screen capture, Speech, EventKit and Open-Meteo integrations. Voice, screen-reading and diagram flows still have open acceptance items, tracked publicly in [KNOWN_ISSUES.md](https://github.com/AntonioPaess/HeyChomp/blob/main/KNOWN_ISSUES.md).
 
-Published iPad-only accessibility app built with Swift and SwiftUI. The app is offline-first and uses adaptive input modes, face gestures, Apple eye and head tracking, and on-device Core ML.
+`Swift 6` `SwiftUI / AppKit` `Apple Foundation Models` `Claude Agent SDK` `Swift Testing`
+· [Code](https://github.com/AntonioPaess/HeyChomp) · [Architecture](https://github.com/AntonioPaess/HeyChomp/blob/main/Sieghart/ARCHITECTURE.md) · [Test suite](https://github.com/AntonioPaess/HeyChomp/blob/main/Sieghart/Tests/README.md) · [Case study](https://antoniopaesss.vercel.app/en/heychomp)
 
-[View Juru AAC on the App Store](https://apps.apple.com/br/app/juru-aac/id6776475179)
+### [Murphy](https://github.com/AntonioPaess/Murphy) · Android + iOS · In development · Personal
 
-### Murphy
+Kotlin Multiplatform core for offline peer-to-peer messaging over a BLE mesh. Shared code holds the connection state machine, a packet router with TTL and duplicate suppression, a binary radio protocol, bounded retries and receiver receipts; native BluetoothGatt and CoreBluetooth adapters plug into it. A deterministic topology simulator tests relay failure and rerouting. Physical Android ↔ iPhone interoperability is not yet validated.
 
-Kotlin Multiplatform and BLE project exploring offline device-to-device communication across iOS and Android.
+`Kotlin Multiplatform` `Jetpack Compose` `SwiftUI` `BLE / GATT` `kotlin.test`
+· [Code](https://github.com/AntonioPaess/Murphy) · [Architecture](https://github.com/AntonioPaess/Murphy/blob/main/docs/architecture.md) · [Radio protocol](https://github.com/AntonioPaess/Murphy/blob/main/docs/radio-protocol.md)
+
+### [SportSnap](https://github.com/AntonioPaess/sportsnap-api) · Backend · Team of four
+
+Academic platform linking sports sessions, photographers and a photo marketplace, split into Spring Boot services with DDD / Clean Architecture and Cucumber BDD acceptance tests. I scaffolded the multi-module Maven project and owned the marketplace stories: photo batch management, photographer dashboard, image upload with watermarking (Decorator), and the REST integration with the Next.js frontend.
+
+`Java 21` `Spring Boot 3` `Spring Data JPA` `Flyway` `Cucumber / JUnit 5`
+· [Code](https://github.com/AntonioPaess/sportsnap-api)
+
+<sub>More, including team and hackathon work such as [Ceres AI](https://github.com/AntonioPaess/ceres-ai-coffee-quality) (computer vision + AI agent prototype, team of three), is on the [portfolio](https://antoniopaesss.vercel.app/en#projects).</sub>
+
+## Engineering focus
+
+- **AI integration:** on-device models (Apple Foundation Models, Core ML), tool calling and agent workflows, bounded context, cancellation, and testing AI-backed features with injected dependencies.
+- **Backend:** REST APIs and services in Java / Spring Boot, domain modeling, persistence with JPA, Flyway and SQL (H2, PostgreSQL), BDD and unit tests.
+- **Native applications:** Swift, SwiftUI and AppKit on iOS, iPadOS and macOS; Kotlin and Jetpack Compose on Android; Kotlin Multiplatform for shared logic.
+- **Engineering practice:** state machines, deterministic tests, explicit failure handling, accessibility, and documentation that separates what is implemented from what is planned.
+
+Also used: TypeScript / Next.js, Python, C, Git, Docker.
 
 ## Experience
 
-### CESAR
+**CESAR** · Native Mobile Developer Intern · Aug 2025 – present\
+iOS and Android rotations in native mobile R&D: SwiftData modeling and queries, memory investigation with Instruments, Swift Testing scenarios, Swift 6 concurrency, and pair work on a Kotlin library built on Android's Accessibility Service with GitLab CI/CD. Product details are under NDA.
 
-Native Mobile Developer Intern since August 2025, with completed iOS and Android rotations across native mobile R&D. Current work is described at a high level because of NDA restrictions.
+**Cloudin** · Full Stack Developer Intern · Feb 2025 – Aug 2025\
+Frontend development with React, TypeScript and Next.js, plus PHP and Firebase, for hospitality software and client onboarding automation.
 
-### Cloudin
+**CESAR School** · Teaching Assistant, C Programming · Feb 2025 – Feb 2026
 
-Former Full Stack Developer Intern. Worked with React, TypeScript, PHP and Firebase on hospitality software and client onboarding automation.
+## Education
 
-## Technical skills
-
-| Mobile and platform | Engineering and supporting stack |
-| --- | --- |
-| Kotlin · Android SDK · Jetpack Compose · Accessibility Service · Kotlin Multiplatform · BLE | Git · REST/API · debugging · Android Studio · Docker |
-| Swift · SwiftUI · iOS SDK · ARKit · AVFoundation · Core ML · CoreBluetooth | Java · Spring Boot · PHP · Python · C · Rust |
-| Native mobile · accessibility · offline and on-device processing | React · TypeScript · Firebase · PostgreSQL · AWS |
-
-## Recognition
-
-- Distinguished Winner, Apple Swift Student Challenge 2026
-- CESAR School Computer Science student, GPA 8.81/10
-- Selected first in CESAR's double-degree selection process for Instituto Politécnico de Bragança
-
-## Other projects
-
-The repositories below show additional experience outside my current mobile focus:
-
-| Project | Stack | What it demonstrates |
-| --- | --- | --- |
-| [Murall](https://github.com/AntonioPaess/Murall) | TypeScript | Collaborative product development |
-| [QRCode Generator](https://github.com/AntonioPaess/QrCode_Generator_Rust) | Rust | CLI design and systems fundamentals |
-| [Binance Crypto Bot](https://github.com/AntonioPaess/binance-spot-bot-nodejs) | Node.js | REST/API integration and automation |
-| [M.A.G.](https://github.com/AntonioPaess/M.A.G.-Atraves-dos-Universos) | C | Game logic and programming fundamentals |
+**CESAR School** · B.Sc. Computer Science · 2024 – 2027 (expected) · GPA 8.81/10\
+Ranked first in CESAR School's double-degree selection with Instituto Politécnico de Bragança (Informatics Engineering, planned start 2027).
 
 ## Contact
 
-I am open to conversations about Android, Kotlin, native mobile development, accessibility and privacy-oriented software.
+Open to conversations about software engineering, backend, AI integration and native applications.
 
-[LinkedIn](https://www.linkedin.com/in/antoniopaess/) · [Portfolio](https://antoniopaesss.vercel.app/pt) · [Email](mailto:paesdeandradeantonio@gmail.com)
+[Portfolio](https://antoniopaesss.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/antoniopaess/) · [Email](mailto:paesdeandradeantonio@gmail.com)
